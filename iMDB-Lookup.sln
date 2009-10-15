@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbLookup", "Package\iMDB-Lookup\ImdbLookup.csproj", "{2D5D889D-715E-4F5D-A528-1D1AF46B0E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iMDB-Tester", "Package\iMDB-Tester\iMDB-Tester.csproj", "{0D025608-3BCF-4940-9A5F-F324C383A7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5D889D-715E-4F5D-A528-1D1AF46B0E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5D889D-715E-4F5D-A528-1D1AF46B0E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5D889D-715E-4F5D-A528-1D1AF46B0E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5D889D-715E-4F5D-A528-1D1AF46B0E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D025608-3BCF-4940-9A5F-F324C383A7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D025608-3BCF-4940-9A5F-F324C383A7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D025608-3BCF-4940-9A5F-F324C383A7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D025608-3BCF-4940-9A5F-F324C383A7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs03.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = iMDB-Lookup\\iMDB-Lookup.csproj
+		SccProjectName1 = iMDB-Lookup
+		SccLocalPath1 = iMDB-Lookup
+	EndGlobalSection
+EndGlobal
